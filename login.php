@@ -26,7 +26,7 @@ else{
   <!-- For Windows Phone -->
 
 
-  <!-- CORE CSS-->
+  <!-- CORE CSS--->
   
   <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/style.min.css" type="text/css" rel="stylesheet" media="screen,projection">
